@@ -1,5 +1,5 @@
 # analitica-de-datos
 
-Adolfo Centeno T.
+Adolfo Centeno Tellez
 L01141572
 
